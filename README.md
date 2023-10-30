@@ -1,6 +1,6 @@
 # CognoRiseInfoTech
 
-LEVEL 1 TASK
+**LEVEL 1 TASK**
 
 UNEMPLOYMENT IN INDIA
 
@@ -14,7 +14,7 @@ people who are unemployed as a percentage of the total labour force.
 
 
 
-LEVEL 2 TASK
+**LEVEL 2 TASK**
 
 80 CEREALS
 
@@ -27,7 +27,7 @@ again.
 
 
 
-LEVEL 5 TASK
+**LEVEL 5 TASK**
 
 EMPLOYEE SALARIES FOR DIFFERENT JOB ROLES
 
